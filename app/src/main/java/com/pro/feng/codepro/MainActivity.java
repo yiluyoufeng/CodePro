@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                     } else if (',' == inputChar || '，' == inputChar || ' ' == inputChar) {
                         isHasSplit = true;
                     } else {
-                        isOk = false;
+//                        isOk = false;
                         break;
                     }
                 }
